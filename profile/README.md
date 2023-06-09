@@ -11,9 +11,5 @@ Kindly raise an issue in the corresponding project in GitHub if you find a probl
 
 ### Links
 * [Website](https://www.threatint.com)
-* [Helpdesk](https://helpdesk.threatint.com)
-* [Community](https://community.threatint.com/spaces)
+* [Knowledgebase](https://kb.threatint.com)
 * [Blog](https://threatint.blog)
-
-### Mailing list
-[Subscribe to our mailing list](https://newsletter.threatint.com/subscription?f=i892rWFNcgLZu7lESKPVZoSJFymnS892TGI0WNGTXds6X0dIZCl2jbGyG76316y0tkBBDP) to learn more about our work.
